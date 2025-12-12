@@ -1,7 +1,6 @@
 package com.clf.JSON_DEMO;
 
-import com.clf.jackson.map.ObjectMapper;
-
+import org.codehaus.jackson.map.ObjectMapper;
 import java.io.IOException;
 
 /**
